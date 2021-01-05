@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "364672033746",
+    "firebase_url": "https://orderit-c28df.firebaseio.com",
+    "project_id": "orderit-c28df",
+    "storage_bucket": "orderit-c28df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364672033746:android:cf92ae97a27c8972f19e0b",
+        "android_client_info": {
+          "package_name": "org.br.orderit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364672033746-v7eb68r1fd2tb4tpoqi4r8q9qlo2nvg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.br.orderit",
+            "certificate_hash": "7f2a15db6919de1c587e77e920e74a2e45d59230"
+          }
+        },
+        {
+          "client_id": "364672033746-01di5gvr63nbbl33ti2r1fq07c92855k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAznpCsr_mFI8Hayr0DJWWh8q6f-pxqyHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364672033746-01di5gvr63nbbl33ti2r1fq07c92855k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
